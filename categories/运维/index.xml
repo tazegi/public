@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>运维 on tazigi&#39;s blog</title>
+    <link>https://tazegi.github.io/categories/%E8%BF%90%E7%BB%B4/</link>
+    <description>Recent content in 运维 on tazigi&#39;s blog</description>
+    <image>
+      <title>tazigi&#39;s blog</title>
+      <url>https://tazegi.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tazegi.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 04 Mar 2023 22:32:53 +0800</lastBuildDate><atom:link href="https://tazegi.github.io/categories/%E8%BF%90%E7%BB%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://tazegi.github.io/post/%E8%BF%90%E7%BB%B4/docker/</link>
+      <pubDate>Sat, 04 Mar 2023 22:32:53 +0800</pubDate>
+      
+      <guid>https://tazegi.github.io/post/%E8%BF%90%E7%BB%B4/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awk</title>
+      <link>https://tazegi.github.io/post/%E8%BF%90%E7%BB%B4/awk/</link>
+      <pubDate>Fri, 03 Mar 2023 11:11:19 +0800</pubDate>
+      
+      <guid>https://tazegi.github.io/post/%E8%BF%90%E7%BB%B4/awk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache2</title>
+      <link>https://tazegi.github.io/post/%E8%BF%90%E7%BB%B4/apache2/</link>
+      <pubDate>Fri, 03 Mar 2023 10:54:41 +0800</pubDate>
+      
+      <guid>https://tazegi.github.io/post/%E8%BF%90%E7%BB%B4/apache2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>https://tazegi.github.io/post/%E8%BF%90%E7%BB%B4/mysql/</link>
+      <pubDate>Fri, 03 Mar 2023 08:24:35 +0800</pubDate>
+      
+      <guid>https://tazegi.github.io/post/%E8%BF%90%E7%BB%B4/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible</title>
+      <link>https://tazegi.github.io/post/%E8%BF%90%E7%BB%B4/ansible/</link>
+      <pubDate>Thu, 02 Mar 2023 15:28:43 +0800</pubDate>
+      
+      <guid>https://tazegi.github.io/post/%E8%BF%90%E7%BB%B4/ansible/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
